@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\scalar.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\scalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\scalar.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\scalar.AssemblyInfo.cs
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\scalar.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\HomeWork_C#\scalar\bin\Debug\net6.0\scalar.exe
+C:\Users\1\Desktop\HomeWork_C#\scalar\bin\Debug\net6.0\scalar.deps.json
+C:\Users\1\Desktop\HomeWork_C#\scalar\bin\Debug\net6.0\scalar.runtimeconfig.json
+C:\Users\1\Desktop\HomeWork_C#\scalar\bin\Debug\net6.0\scalar.dll
+C:\Users\1\Desktop\HomeWork_C#\scalar\bin\Debug\net6.0\scalar.pdb
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\scalar.dll
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\refint\scalar.dll
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\scalar.pdb
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\scalar.genruntimeconfig.cache
+C:\Users\1\Desktop\HomeWork_C#\scalar\obj\Debug\net6.0\ref\scalar.dll
